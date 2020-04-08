@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Rishiraj Pravahan's launched site!"
+date: 2020-04-07
 ---
 
-Well, this is getting started in the middle of the Covid19 pandemic. It is powered by [Jekyll](http://jekyllrb.com)
+Well, this is getting started in the middle of the Covid19 pandemic of 2020. It is powered by [Jekyll](http://jekyllrb.com)
