@@ -1,2 +1,2 @@
 #ChiSquare LLC
-![ChiSquare logo](/mages/Chisquare.png)
+![ChiSquare logo](/images/Chisquare.png)
