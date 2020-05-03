@@ -9,7 +9,7 @@ Get to know more about me...
 
 ## Professional Life
 
-My [LinkedIn Profile](www.linkedin.com/in/rishirajpravahan)
+My [LinkedIn Profile](<www.linkedin.com/in/rishirajpravahan>)
 
 I am currently the **CEO of AnomalousDL**, a startup based out of Palo Alto, California. I co-founded AnomalousDL with my friend and mentor, Amir Farbin. 
 
