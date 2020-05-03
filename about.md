@@ -1,6 +1,10 @@
-## I'm a generalist. A jack of many trades and master of some.
+## I'm a generalist, physicist, data scientist. 
 
-### Get to know about me..
+### Get to know about me...
+
+<p align="center">
 <img src="/images/Rishi.jpeg" alt="Rishi at a conference" width="380">
+</p>
+
 
 	
