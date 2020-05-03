@@ -1,7 +1,7 @@
 # ChiSquare Consulting
 
 <p align="center">
-  <img alt="ChiSquare Logo" width="400" height="200" src="/images/Chisquare.png">
+  <img alt="ChiSquare Logo" width="600" src="/images/Chisquare.png">
 </p>
 
 
