@@ -2,8 +2,6 @@
 ### I am also a teacher, leader, speaker, listener, problem solver and builder. 
 ---
 
-Get to know more about me...
-
 <p align="center">
 <img src="/images/Rishi.jpeg" alt="Rishi at a conference" width="380">
 </p>
