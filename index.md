@@ -15,7 +15,7 @@ High level consulting in:
 * Startups: Derisking technology. Derisking hires and acqui-hires.
 * Building collaborations accross business units, academia and government
 * Data Science: R&D to production systems
-* Machine Learning / Deep Learning : Problem formulation, algorithms, application and use-case development 
+* Machine Learning / Deep Learning : Problem formulation, algorithms, application and use-case development
 * Quantum technologies : Starting a quantum group. Sourcing and building talent
 
 ---
