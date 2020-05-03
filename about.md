@@ -16,7 +16,7 @@ At [AnomalousDL](https://www.anomalousdl.com/), we built a high level Deep Learn
 
 At AnomalousDL we are using AI capabilities to solve problems in healthcare and other verticals where we believe AI can have a direct and immediate positive impact. Using AnomalousDL's *unsupervised learning algorithms* our customers can find and predict not only known unknowns but also unknown unknown with high sensitivity and precision. 
 
-We are currently revenue positive, bootstrapped and ready to help clients with their problems with our capabilities and services. If you are interested in learning more about AnomalousDL's services please [email](<info@anomalousdl.com>).
+We are currently revenue positive, bootstrapped and ready to help clients with their problems with our capabilities and services. If you are interested in learning more about AnomalousDL's services please [email](info@anomalousdl.com).
 
 Previously, I **co-founded and became the director of INQNET at the AT&T Foundry in Palo Alto**. [INQNET](http://inqnet.caltech.edu/index.html) (INtelligent Quantum Network and Technology) was founded to establish the first metropolitan scale quantum entanglement distribution system using AT&T's existing optical fiber network. It is a collaboration between AT&T, Caltech and other government and academic labs and organization.  
 
