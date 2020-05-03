@@ -1,6 +1,9 @@
 # ChiSquare Consulting
 
-<center>![ChiSquare logo](/images/Chisquare.png) </center>
+<p align="center">
+  <img alt="ChiSquare Logo" width="400" height="200" src="/images/Chisquare.png">
+</p>
+
 
 Welcome to **ChiSquare** a consulting company run by [Rishiraj Pravahan](https://www.chisquare.info/about). 
 
