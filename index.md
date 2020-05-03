@@ -14,7 +14,7 @@ High level consulting in:
 * Machine Learning / Deep Learning 
 * Quantum technologies
 
-Public Talks, Seminars and Workshops:
+Public Talks, Seminars and Workshops on:
 * Introduction to Quantum Networks and Applications
 * Quantum Machine Learning
 * Hands on Machine Learning
