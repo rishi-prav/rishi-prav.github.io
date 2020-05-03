@@ -15,10 +15,11 @@ I am currently the **CEO of AnomalousDL**, a startup based out of Palo Alto, Cal
 
 At [AnomalousDL](https://www.anomalousdl.com/), we built a high level Deep Learning framework capable of automating complicated scientific inqueries and developed specialized algorithms for anomaly detection on time series, network, transactional and image data. 
 
-We are using the capabilities now to solve problems in healthcare and other verticals. Using AnomalousDL's unsupervised algorithms our customers can find and predict not only known unknowns but also unknown unknown with high sensitivity and precision. 
+At AnomalousDL we are using AI capabilities to solve problems in healthcare and other verticals where we believe AI can have a direct and immediate positive impact. Using AnomalousDL's *unsupervised learning algorithms* our customers can find and predict not only known unknowns but also unknown unknown with high sensitivity and precision. 
 
-We are now revenue positive and bootstrapped and are always ready to help clients with their problems with our capabilities and services.
+We are currently revenue positive, bootstrapped and ready to help clients with their problems with our capabilities and services. If you are interested in learning more about AnomalousDL's services please [email](<info@anomalousdl.com>).
 
 Previously, I **co-founded and became the director of INQNET at the AT&T Foundry in Palo Alto**. [INQNET](http://inqnet.caltech.edu/index.html) (INtelligent Quantum Network and Technology) was founded to establish the first metropolitan scale quantum entanglement distribution system using AT&T's existing optical fiber network. It is a collaboration between AT&T, Caltech and other government and academic labs and organization.  
- 
+
+
 	
