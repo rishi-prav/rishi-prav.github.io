@@ -4,7 +4,7 @@
 
 Welcome to **ChiSquare**! a consulting company run by [Rishiraj Pravahan](https://www.chisquare.info/about). 
 
-###Available services:
+### Available services:
 
 * Data Science
 * Machine Learning / Deep Learning 
