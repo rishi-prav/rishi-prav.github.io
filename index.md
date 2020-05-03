@@ -10,11 +10,13 @@ Welcome to **ChiSquare** a consulting company run by [Rishiraj Pravahan](https:/
 ## Available services:
 
 High level consulting in:
-* Technology and Innovation
+* Technology and Innovation : Building and running innovation ceters 
+* Startups: Derisking technology. Derisking hires and acqui-hires.
 * Building collaborations accross business units, academia and government
-* Data Science: R&D to Production systems
-* Machine Learning / Deep Learning : Problem formulation and Algorithms 
+* Data Science: R&D to production systems
+* Machine Learning / Deep Learning : Problem formulation, algorithms, application and use-case development 
 * Quantum technologies : Starting a quantum group. Sourcing and building talent.
+---
 
 Public Talks, Seminars and Workshops on:
 * Introduction to Quantum Networks and Applications
